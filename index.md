@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects 
 
-[Face Recognition App](/sample_page)
+[Face Recognition App](https://github.com/The-Accolade/Face-Recoginiton-App)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Login and Signup Authentication and Authorization with JWT](https://github.com/The-Accolade/LoginAuthenticationAndAuthorizationWithJWT-PERN)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Loan Calculator](https://github.com/The-Accolade/loan-calculator)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Other Interesting Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Chat App](https://github.com/The-Accolade/Chat)
+- [Tik Tok Clone](https://github.com/The-Accolade/tik-tok-clone)
+- [Redux with Thunk](https://github.com/The-Accolade/asynchronous-redux-with-thunk)
+- [Random Jokes App](https://github.com/The-Accolade/random-jokes)
+- [Tip Calculator](https://github.com/The-Accolade/tip-calculator)
 
 ---
 
