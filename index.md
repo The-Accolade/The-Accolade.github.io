@@ -32,6 +32,7 @@
 - [Redux with Thunk](https://github.com/The-Accolade/asynchronous-redux-with-thunk)
 - [Random Jokes App](https://github.com/The-Accolade/random-jokes)
 - [Tip Calculator](https://github.com/The-Accolade/tip-calculator)
+- [Instagram Clone](https://github.com/The-Accolade/MyInstagram)
 
 ---
 
