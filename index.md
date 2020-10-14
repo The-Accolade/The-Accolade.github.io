@@ -5,7 +5,7 @@
 ### Recent Projects 
 
 [Face Recognition App](https://github.com/The-Accolade/Face-Recoginiton-App)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Login and Signup Authentication and Authorization with JWT](https://github.com/The-Accolade/LoginAuthenticationAndAuthorizationWithJWT-PERN)
