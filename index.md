@@ -9,11 +9,11 @@
 
 ---
 [Login and Signup Authentication and Authorization with JWT](https://github.com/The-Accolade/LoginAuthenticationAndAuthorizationWithJWT-PERN)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Loan Calculator](https://github.com/The-Accolade/loan-calculator)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
