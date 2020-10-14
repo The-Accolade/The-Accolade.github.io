@@ -14,8 +14,16 @@
 ---
 [Loan Calculator](https://github.com/The-Accolade/loan-calculator)
 
+---
+
+[Chat Application](https://github.com/The-Accolade/real-time-chat)
 
 ---
+
+[Contact List Application](https://github.com/The-Accolade/contactList)
+
+---
+
 
 ### Other Interesting Projects
 
